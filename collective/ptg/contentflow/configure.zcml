@@ -1,0 +1,28 @@
+<configure
+    xmlns="http://namespaces.zope.org/zope"
+    xmlns:browser="http://namespaces.zope.org/browser"
+    i18n_domain="collective.ptg.contentflow">
+
+    <browser:resourceDirectory
+        name="ptg.contentflow"
+        directory="resources"
+        />
+
+    <adapter
+        for="collective.plonetruegallery.interfaces.IGallery"
+        provides=".IContentFlowSettings"
+        factory=".ContentFlowSettings" />
+
+    <browser:page
+        for="collective.plonetruegallery.interfaces.IGallery"
+        name="galleryview-contentflow"
+        class=".ContentFlowDisplayType"
+        template="contentflow.pt"
+        permission="zope2.View" />
+
+    <utility
+        component=".ContentFlowDisplayType"
+        provides="collective.plonetruegallery.interfaces.IDisplayType"
+        name="galleryview-contentflow" />
+
+</configure>
