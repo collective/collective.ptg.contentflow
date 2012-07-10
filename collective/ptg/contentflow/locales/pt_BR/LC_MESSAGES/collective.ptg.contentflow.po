@@ -1,0 +1,74 @@
+# --- PLEASE EDIT THE LINES BELOW CORRECTLY ---
+# SOME DESCRIPTIVE TITLE.
+# Rafahela Bazzanella <rafahela@gmail>, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: collective.plonetruegallery\n"
+"POT-Creation-Date: 2012-07-10 12:54+0000\n"
+"PO-Revision-Date: 2011-07-01 11:53-0300\n"
+"Last-Translator: Rafahela Bazzanella <rafahela@gmail.com>\n"
+"Language-Team: TcheZope.org <tchezope@yahoogroups.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+"Language-Code: pt-br\n"
+"Language-Name: Brazilian Portuguese\n"
+"Preferred-Encodings: utf-8 latin1\n"
+"Domain: collective.plonetruegallery\n"
+
+#. Default: "Gallery View"
+#: ./browser/views/configure.zcml
+msgid "Gallery View"
+msgstr "Visão de Galeria"
+
+#. Default: "Customize how large the image shows. If zero, a best guess height will be selected based on thewidth. This is translated to pixels."
+#: ./__init__.py:38
+msgid "desc_contentflow_image_height"
+msgstr ""
+
+#. Default: "Black"
+#: ./__init__.py:21
+msgid "label_content_flow_addon_black"
+msgstr ""
+
+#. Default: "Gallery"
+#: ./__init__.py:23
+msgid "label_content_flow_addon_gallery"
+msgstr ""
+
+#. Default: "Roundabout"
+#: ./__init__.py:26
+msgid "label_content_flow_addon_roundabout"
+msgstr ""
+
+#. Default: "Screwdriver"
+#: ./__init__.py:29
+msgid "label_content_flow_addon_screwdriver"
+msgstr ""
+
+#. Default: "Slideshow"
+#: ./__init__.py:32
+msgid "label_content_flow_addon_slideshow"
+msgstr ""
+
+#. Default: "White"
+#: ./__init__.py:19
+msgid "label_content_flow_addon_white"
+msgstr ""
+
+#. Default: "Addons"
+#: ./__init__.py:12
+msgid "label_contentflow_addons"
+msgstr ""
+
+#. Default: "Content Flow"
+#: ./__init__.py:49
+msgid "label_contentflow_display_type"
+msgstr ""
+
+#. Default: "Max Image Height"
+#: ./__init__.py:36
+msgid "label_contentflow_image_height"
+msgstr ""
+
