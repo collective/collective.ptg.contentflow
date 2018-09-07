@@ -1,21 +1,25 @@
 # --- PLEASE EDIT THE LINES BELOW CORRECTLY ---
 # Diego Rubert, 2009.
+# Enrique Pérez <eperez@yaco.es>, 2009.
+# Leonardo J. Caballero G. <leonardocaballero@gmail.com>, 2018.
 msgid ""
 msgstr ""
-"Project-Id-Version: collective.plonetruegallery\n"
+"Project-Id-Version: collective.ptg.contentflow\n"
 "POT-Creation-Date: 2012-07-10 12:54+0000\n"
-"PO-Revision-Date: 2009-05-19 16:17-0400\n"
-"Last-Translator: Enrique Pérez <eperez@yaco.es>\n"
-"Language-Team: Spanish <>\n"
+"PO-Revision-Date: 2018-09-07 08:50-0400\n"
+"Last-Translator: Leonardo J. Caballero G. <leonardocaballero@gmail.com>\n"
+"Language-Team: Spanish Team\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Virtaal 0.7.1\n"
 "Language-Code: es\n"
 "Language-Name: Español\n"
 "Preferred-Encodings: utf-8 latin1\n"
-"Domain: collective.plonetruegallery\n"
-"X-Generator: Lokalize 0.3\n"
+"Domain: collective.ptg.contentflow\n"
+"X-Is-Fallback-For: es-ar es-bo es-cl es-co es-cr es-do es-ec es-es es-sv es-gt es-hn es-mx es-ni es-pa es-py es-pe es-pr es-us es-uy es-ve\n"
 
 #. Default: "Gallery View"
 #: ./browser/views/configure.zcml
@@ -26,16 +30,19 @@ msgstr "Vista de galería"
 #: ./__init__.py:38
 msgid "desc_contentflow_image_height"
 msgstr ""
+"Personalizar el alto de la imagen a mostrar. Si es cero, una mejor "
+"sujerencia de alto será seleccionado en base al ancho. Esto es traducido a "
+"pixels."
 
 #. Default: "Black"
 #: ./__init__.py:21
 msgid "label_content_flow_addon_black"
-msgstr ""
+msgstr "Negro"
 
 #. Default: "Gallery"
 #: ./__init__.py:23
 msgid "label_content_flow_addon_gallery"
-msgstr ""
+msgstr "Galeria"
 
 #. Default: "Roundabout"
 #: ./__init__.py:26
@@ -49,26 +56,26 @@ msgstr ""
 
 #. Default: "Slideshow"
 #: ./__init__.py:32
+#, fuzzy
 msgid "label_content_flow_addon_slideshow"
-msgstr ""
+msgstr "Mostrar persiana"
 
 #. Default: "White"
 #: ./__init__.py:19
 msgid "label_content_flow_addon_white"
-msgstr ""
+msgstr "Blanco"
 
 #. Default: "Addons"
 #: ./__init__.py:12
 msgid "label_contentflow_addons"
-msgstr ""
+msgstr "Complementos"
 
 #. Default: "Content Flow"
 #: ./__init__.py:49
 msgid "label_contentflow_display_type"
-msgstr ""
+msgstr "Content Flow"
 
 #. Default: "Max Image Height"
 #: ./__init__.py:36
 msgid "label_contentflow_image_height"
-msgstr ""
-
+msgstr "Máximo de alto de imagen"
