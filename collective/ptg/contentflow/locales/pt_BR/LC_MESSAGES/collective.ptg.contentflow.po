@@ -3,7 +3,7 @@
 # Rafahela Bazzanella <rafahela@gmail>, 2011.
 msgid ""
 msgstr ""
-"Project-Id-Version: collective.plonetruegallery\n"
+"Project-Id-Version: collective.ptg.contentflow\n"
 "POT-Creation-Date: 2012-07-10 12:54+0000\n"
 "PO-Revision-Date: 2011-07-01 11:53-0300\n"
 "Last-Translator: Rafahela Bazzanella <rafahela@gmail.com>\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Language-Code: pt-br\n"
 "Language-Name: Brazilian Portuguese\n"
 "Preferred-Encodings: utf-8 latin1\n"
-"Domain: collective.plonetruegallery\n"
+"Domain: collective.ptg.contentflow\n"
 
 #. Default: "Gallery View"
 #: ./browser/views/configure.zcml

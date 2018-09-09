@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: collective.ptg.contentflow VERSION\n"
 "POT-Creation-Date: 2012-07-10 12:54+0000\n"
 "PO-Revision-Date: 2009-05-17 16:14+0100\n"
 "Last-Translator: Espen Moe-Nilssen <espen@medialog.no>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Language-Code: no\n"
 "Language-Name: Norwegian\n"
 "Preferred-Encodings: utf-8 latin1\n"
-"Domain: collective.plonetruegallery\n"
+"Domain: collective.ptg.contentflow\n"
 
 #. Default: "Gallery View"
 #: ./browser/views/configure.zcml

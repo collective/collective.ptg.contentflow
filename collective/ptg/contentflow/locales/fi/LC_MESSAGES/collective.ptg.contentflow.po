@@ -1,9 +1,9 @@
 # --- PLEASE EDIT THE LINES BELOW CORRECTLY ---
-# Finnish translations for collective.plonetruegallery package.
+# Finnish translations for collective.ptg.contentflow package.
 # Ilja Everilä <ilja.everila@twinapex.com>, 2009.
 msgid ""
 msgstr ""
-"Project-Id-Version: collective.plonetruegallery 0.7rc1-py2.4.egg\n"
+"Project-Id-Version: collective.ptg.contentflow 0.7rc1-py2.4.egg\n"
 "POT-Creation-Date: 2012-07-10 12:54+0000\n"
 "PO-Revision-Date: 2009-08-28 16:49+0300\n"
 "Last-Translator: Ilja Everilä <ilja.everila@twinapex.com>\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Language-Code: fi\n"
 "Language-Name: Finnish\n"
 "Preferred-Encodings: utf-8 latin1\n"
-"Domain: collective.plonetruegallery\n"
+"Domain: collective.ptg.contentflow\n"
 
 #. Default: "Gallery View"
 #: ./browser/views/configure.zcml

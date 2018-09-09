@@ -3,7 +3,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: collective.ptg.contentflow VERSION\n"
 "POT-Creation-Date: 2012-07-10 12:54+0000\n"
 "PO-Revision-Date: 2010-01-15\n"
 "Last-Translator: Busico Mirto Silvio <m.busico@ieee.org>\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Language-Code: it\n"
 "Language-Name: Italiano\n"
 "Preferred-Encodings: utf-8 latin1\n"
-"Domain: collective.plonetruegallery\n"
+"Domain: collective.ptg.contentflow\n"
 
 #. Default: "Gallery View"
 #: ./browser/views/configure.zcml
