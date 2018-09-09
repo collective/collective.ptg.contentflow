@@ -31,7 +31,7 @@ msgstr "Vista de galería"
 msgid "desc_contentflow_image_height"
 msgstr ""
 "Personalizar el alto de la imagen a mostrar. Si es cero, una mejor "
-"sujerencia de alto será seleccionado en base al ancho. Esto es traducido a "
+"sugerencia de alto será seleccionado en base al ancho. Esto es traducido a "
 "pixels."
 
 #. Default: "Black"
@@ -42,7 +42,7 @@ msgstr "Negro"
 #. Default: "Gallery"
 #: ./__init__.py:23
 msgid "label_content_flow_addon_gallery"
-msgstr "Galeria"
+msgstr "Galería"
 
 #. Default: "Roundabout"
 #: ./__init__.py:26
